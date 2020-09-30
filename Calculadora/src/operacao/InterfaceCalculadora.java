@@ -22,7 +22,7 @@ public class InterfaceCalculadora {
 		System.out.println("3- Multiplicação");
 		System.out.println("4- Divisão");
 		System.out.println("0- Sair");
-		System.out.println("Operação: ");
+		System.out.println("Resultado é: ");
 
 		opcao = inserir.nextInt();
 
